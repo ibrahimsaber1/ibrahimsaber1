@@ -32,7 +32,7 @@ I enjoy using my programming skills to create software. With strong knowledge in
 <p align="center">
 <a href="https://www.linkedin.com/in/ibrahim1saber/"><img /></a>
 <a href="https://www.instagram.com/ibrahimsabe.r/"><img /></a>
-<a href="https://www.facebook.com/ibrahim1saber/"><img /></a>
+<a href="https://www.facebook.com/ibrahim1saber/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png"/></a>
 </p>
 
 ## Let's Collaborate!
