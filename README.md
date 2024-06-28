@@ -30,9 +30,9 @@ I enjoy using my programming skills to create software. With strong knowledge in
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ibrahim1saber/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/ibrahimsabe.r/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/ibrahim1saber/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ibrahim1saber/"><img /></a>
+<a href="https://www.instagram.com/ibrahimsabe.r/"><img /></a>
+<a href="https://www.facebook.com/ibrahim1saber/"><img /></a>
 </p>
 
 ## Let's Collaborate!
