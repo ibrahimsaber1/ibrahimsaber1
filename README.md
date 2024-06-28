@@ -32,7 +32,7 @@ I enjoy using my programming skills to create software. With strong knowledge in
 <p align="center">
 <a href="https://www.linkedin.com/in/ibrahim1saber/"><img /></a>
 <a href="https://www.instagram.com/ibrahimsabe.r/"><img /></a>
-<a href="https://www.facebook.com/ibrahim1saber/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png"/></a>
+<!-- <a href="https://www.facebook.com/ibrahim1saber/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png"/></a> -->
 </p>
 
 ## Let's Collaborate!
@@ -41,5 +41,6 @@ I'm open to working on new projects and learning opportunities. Feel free to rea
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsaber1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimsaber1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsaber1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimsaber1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
+
