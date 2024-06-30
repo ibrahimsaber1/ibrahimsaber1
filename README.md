@@ -47,25 +47,7 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ibrahim1saber/"><style /* unvisited link */
-a:link {
-  color: red;
-}
-
-/* visited link */
-a:visited {
-  color: green;
-}
-
-/* mouse over link */
-a:hover {
-  color: hotpink;
-}
-
-/* selected link */
-a:active {
-  color: blue;
-}>Linkedin</style></a>
+<a href="https://www.linkedin.com/in/ibrahim1saber/">Linkedin</a>
 <a href="https://www.instagram.com/ibrahimsabe.r/">Instagram</a>
 <a href="https://www.facebook.com/ibrahim1saber/">Facebook</a>
 </p>
