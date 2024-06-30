@@ -3,11 +3,11 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-👋 &nbsp;Hi there, I'm Ibrahim Saber a backend and full-stack developer, based in Egypt. <br>
-🤖 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
-🌱 &nbsp;I'm on track for learning more about Full-stack and Artificial Intelligence .<br>
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
-✉️ &nbsp;You can shoot me an email at ibrahimsaber622@gmail.com! I'll try to respond as soon as I can.<br>
+👋 &nbsp; Hi there, I'm Ibrahim Saber a backend and full-stack developer, based in Egypt. <br>
+🤖 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.<br>
+🌱 &nbsp; I'm on track for learning more about Full-stack and Artificial Intelligence .<br>
+💬 &nbsp; Feel free to contact me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
+✉️ &nbsp; You can shoot me an email at ibrahimsaber622@gmail.com! I'll try to respond as soon as I can.<br>
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.ibra.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 
@@ -47,14 +47,32 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ibrahim1saber/">Linkedin</a>
+<a href="https://www.linkedin.com/in/ibrahim1saber/"><style /* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}>Linkedin</style></a>
 <a href="https://www.instagram.com/ibrahimsabe.r/">Instagram</a>
 <a href="https://www.facebook.com/ibrahim1saber/">Facebook</a>
 </p>
 
 ## Let's Collaborate!
 
-I'm open to working on new projects and learning opportunities. Feel free to reach out if you have an idea or project you'd like to discuss.
+I'm open to working on new projects and learning opportunities. Let me know if you have an idea or project you'd like to discuss.
 
 ---
 
