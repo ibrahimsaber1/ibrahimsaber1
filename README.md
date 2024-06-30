@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Saber</h1>
 
-<hr>
 <br>
 ### 👨🏻‍💻 &nbsp;About Me: <br>
 👋 &nbsp; I'm a backend and full-stack developer, based in Egypt. <br>
