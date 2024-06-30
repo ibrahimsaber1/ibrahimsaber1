@@ -1,9 +1,8 @@
-# Welcome to my GitHub profile!
+<h1 align="center">Hi 👋, I'm Ibrahim Saber</h1>
 
-
-
+<hr>
 ### 👨🏻‍💻 &nbsp;About Me
-👋 &nbsp; Hi there, I'm Ibrahim Saber a backend and full-stack developer, based in Egypt. <br>
+👋 &nbsp; I'm a backend and full-stack developer, based in Egypt. <br>
 🤖 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.<br>
 🌱 &nbsp; I'm on track for learning more about Full-stack and Artificial Intelligence .<br>
 💬 &nbsp; Feel free to contact me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
@@ -47,10 +46,23 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ibrahim1saber/" ![Linkedin] (https://github.com/ibrahimsaber1/ibrahimsaber1/assets/90967371/cab4372c-39f2-44fd-91da-47b3abac0d48)></a>
-<a href="https://www.instagram.com/ibrahimsabe.r/">Instagram</a>
-<a href="https://www.facebook.com/ibrahim1saber/">Facebook</a>
+<a href="https://www.linkedin.com/in/ibrahim1saber/" target="blank"> <img align="center"
+      src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt ="adam pithewan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ibrahimsabe.r/"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ibrahim1saber/"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ibrahimsaber622" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+<!-- <a href="" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adampithewan" height="30" width="40" /></a> -->
 </p>
+
 
 ## Let's Collaborate!
 
