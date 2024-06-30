@@ -47,7 +47,7 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ibrahim1saber/">![Linkedin](https://github.com/ibrahimsaber1/ibrahimsaber1/assets/90967371/cab4372c-39f2-44fd-91da-47b3abac0d48)</a>
+<a href="https://www.linkedin.com/in/ibrahim1saber/" ![Linkedin] (https://github.com/ibrahimsaber1/ibrahimsaber1/assets/90967371/cab4372c-39f2-44fd-91da-47b3abac0d48)></a>
 <a href="https://www.instagram.com/ibrahimsabe.r/">Instagram</a>
 <a href="https://www.facebook.com/ibrahim1saber/">Facebook</a>
 </p>
