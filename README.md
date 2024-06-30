@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Saber</h1>
 
 <hr>
-### 👨🏻‍💻 &nbsp;About Me
+<br>
+### 👨🏻‍💻 &nbsp;About Me: <br>
 👋 &nbsp; I'm a backend and full-stack developer, based in Egypt. <br>
 🤖 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.<br>
 🌱 &nbsp; I'm on track for learning more about Full-stack and Artificial Intelligence .<br>
