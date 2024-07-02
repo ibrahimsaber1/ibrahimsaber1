@@ -57,6 +57,9 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 <a href="https://www.hackerrank.com/profile/ibrahimsaber622" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ibrahimsaber622/" target="blank"><img align="center"
+      src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256"
+      alt="adampithewan" height="30" width="40" /></a>
 <!-- <a href="" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a> -->
