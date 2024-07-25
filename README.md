@@ -6,7 +6,7 @@
 🤖 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.<br>
 🌱 &nbsp; I'm on track for learning more about Full-stack and Artificial Intelligence .<br>
 💬 &nbsp; Feel free to contact me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
-✉️ &nbsp; You can shoot me an email at <a>ibrahimsaber622@gmail.com</a>! I'll try to respond as soon as I can.<br>
+✉️ &nbsp; You can shoot me an email at <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a>! I'll try to respond as soon as I can.<br>
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.ibra.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 <br>
@@ -16,7 +16,8 @@
 - 💻 &nbsp;
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
     ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-    ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+    ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+    ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 - 🌐 &nbsp;
     ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -30,15 +31,15 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-45FF4A?style=plastic&logo=mongodb&logoColor=0051FF)&nbsp;
   ![Pandas](https://img.shields.io/badge/-Pandas-FF9300?style=plastic&logo=pandas&logoColor=000000)&nbsp;
   ![Numpy](https://img.shields.io/badge/-Numpy-green?style=plastic&logo=numpy)
-
 - ⚙️ &nbsp;
     ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-
+    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+    ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+    ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+    ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-45FF4A?style=plastic&logo=visual-studio-code&logoColor=0051FF)&nbsp;
-  ![Jupiter Notebook](https://img.shields.io/badge/-Jupiter%20Notebook-FF9300?style=plastic&logo=jupiter-Notebook-&logoColor=000000)
-
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-FF9300?style=plastic&logo=jupyter&logoColor=000000)
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and projects. If you have any questions or collaboration opportunities, please reach out to me. Let's create amazing solutions together!
 
@@ -47,24 +48,23 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 <p align="center">
 <a href="https://www.linkedin.com/in/ibrahim1saber/" target="blank"> <img align="center"
       src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt ="adam pithewan" height="30" width="40" /></a>
+      alt ="linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ibrahimsabe.r/"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+      alt="instagram" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ibrahim1saber/"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
+      alt="facebook" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/ibrahimsaber622" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="hackerrank" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ibrahimsaber622/" target="blank"><img align="center"
       src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="leetcode" height="30" width="40" /></a>
 <!-- <a href="" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a> -->
+      alt="twitter" height="30" width="40" /></a> -->
 </p>
-
 
 ## Let's Collaborate!
 
@@ -74,4 +74,3 @@ I'm open to working on new projects and learning opportunities. Let me know if y
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsaber1&layout=compact)](https://github.com/anuraghazra/github-readme-stats )
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimsaber1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats )-->
-
