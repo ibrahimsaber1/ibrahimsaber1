@@ -49,24 +49,24 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ibrahim1saber/" target="blank"> <img align="center"
-      src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ibrahimsabe.r/"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="instagram" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ibrahim1saber/"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="facebook" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/ibrahimsaber622" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="hackerrank" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ibrahimsaber622/" target="blank"><img align="center"
-      src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256"
-      alt="leetcode" height="30" width="40" /></a>
-<!-- <a href="" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="twitter" height="30" width="40" /></a> -->
+  <a href="https://www.linkedin.com/in/ibrahim1saber/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
+  </a>
+  <a href="https://www.instagram.com/ibrahimsabe.r/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="30" />
+  </a>
+  <a href="https://www.facebook.com/ibrahim1saber/" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=flat&logo=facebook&logoColor=white" alt="Facebook" height="30" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ibrahimsaber622" target="blank">
+    <img src="https://img.shields.io/badge/Hackerrank-000000?style=flat&logo=hackerrank&logoColor=white" alt="Hackerrank" height="30" />
+  </a>
+  <a href="https://leetcode.com/u/ibrahimsaber622/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" height="30" />
+  </a>
+  <!-- <a href="" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="30" />
+  </a> -->
 </p>
 
 ## Let's Collaborate!
