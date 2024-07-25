@@ -14,41 +14,51 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 💻 &nbsp;
-    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-    ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-    ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+    ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)&nbsp;
+    ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)&nbsp;
+    ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white)&nbsp;
+    ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white)
 - 🌐 &nbsp;
-    ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-    ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-    ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+    ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white)&nbsp;
+    ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+    ![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=white)&nbsp;
+    ![CSS](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=white)
 - 👨‍💻 &nbsp;
-    ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-    ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+    ![Django](https://img.shields.io/badge/Django-000000?style=flat&logo=django&logoColor=white)&nbsp;
+    ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-202020?style=plastic&logo=mysql&logoColor=33F703)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-45FF4A?style=plastic&logo=mongodb&logoColor=0051FF)&nbsp;
-  ![Pandas](https://img.shields.io/badge/-Pandas-FF9300?style=plastic&logo=pandas&logoColor=000000)&nbsp;
-  ![Numpy](https://img.shields.io/badge/-Numpy-green?style=plastic&logo=numpy)
+  ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=white)&nbsp;
+  ![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&logoColor=white)&nbsp;
+  ![Numpy](https://img.shields.io/badge/Numpy-000000?style=flat&logo=numpy&logoColor=white)
 - ⚙️ &nbsp;
-    ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-    ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-    ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-    ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
+    ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)&nbsp;
+    ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)&nbsp;
+    ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)&nbsp;
+    ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=white)&nbsp;
+    ![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnu-bash&logoColor=white)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-45FF4A?style=plastic&logo=visual-studio-code&logoColor=0051FF)&nbsp;
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-FF9300?style=plastic&logo=jupyter&logoColor=000000)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-000000?style=flat&logo=jupyter&logoColor=white)
 
-Thank you for visiting my GitHub profile. Feel free to explore my repositories and projects. If you have any questions or collaboration opportunities, please reach out to me. Let's create amazing solutions together!
+<br>
+<h1>📊 &nbsp;GitHub Stats</h1>
+
+<p align="center">
+<a href="https://github.com/ibrahimsaber1">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimsaber1&show_icons=true&theme=radical" alt="Ibrahim's GitHub Stats"/>
+</a>
+<a href="https://github.com/ibrahimsaber1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsaber1&layout=compact&theme=radical" alt="Ibrahim's Top Languages"/>
+</a>
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ibrahim1saber/" target="blank"> <img align="center"
       src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt ="linkedin" height="30" width="40" /></a>
+      alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ibrahimsabe.r/"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="instagram" height="30" width="40" /></a>
@@ -72,5 +82,4 @@ I'm open to working on new projects and learning opportunities. Let me know if y
 
 ---
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsaber1&layout=compact)](https://github.com/anuraghazra/github-readme-stats )
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimsaber1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats )-->
+[![Profile Views](https://komarev.com/ghpvc/?username=ibrahimsaber1&color=brightgreen)](https://github.com/ibrahimsaber1)
