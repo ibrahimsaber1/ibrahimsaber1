@@ -46,7 +46,8 @@
 <!-- <p align="center"> <a href="https://github.com/ibrahimsaber1"><img src="https://github-readme-stats.vercel.app/api?username=ibrahimsaber1&show_icons=true&theme=radical" alt="Ibrahim's GitHub Stats"/></a>
 <!-- <a href="https://github.com/ibrahimsaber1"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsaber1&layout=compact&theme=radical" alt="Ibrahim's Top Languages"/> </a> </p> --> 
 
-### 🤝🏻 &nbsp;Connect with Me
+
+<h2>🤝🏻 &nbsp;Connect with Me:</h2> <br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim1saber/" target="blank">
