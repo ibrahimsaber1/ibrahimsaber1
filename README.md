@@ -2,11 +2,11 @@
 
 <br>
 <h1>👨🏻‍💻 &nbsp;About Me:</h1> <br>
- <h3>👋 &nbsp; I'm a full-stack developer, based in Egypt.</h3> <br>
- <h3>🤖 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.</h3><br>
- <h3>🌱 &nbsp; I'm on track for learning more about Full-stack and Artificial Intelligence .</h3><br>
- <h3>💬 &nbsp; I'm always open to pro bono consulting, volunteering opportunities, or engaging discussions on tech and beyond.</h3><br>
- <h3>✉️ &nbsp; You can shoot me an email at <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a>! I'll try to respond as soon as I can.</h3><br>
+ <h4>👋 &nbsp; I'm a full-stack developer, based in Egypt.</h4>
+ <h4>🤖 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.</h4>
+ <h4>🌱 &nbsp; I'm on track for learning more about Full-stack and Artificial Intelligence .</h4>
+ <h4>💬 &nbsp; I'm always open to pro bono consulting, volunteering opportunities, or engaging discussions on tech and beyond.</h4>
+ <h4>✉️ &nbsp; You can shoot me an email at <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a>! I'll try to respond as soon as I can.</h4>
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.ibra.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 <br>
