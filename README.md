@@ -26,13 +26,13 @@
   ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white)&nbsp;
   ![Django](https://img.shields.io/badge/Django-000000?style=flat&logo=django&logoColor=white)&nbsp;
   ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-- 🛢 &nbsp;  
+- 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=white)&nbsp;
   ![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&logoColor=white)&nbsp;
   <!-- ![Numpy](https://img.shields.io/badge/Numpy-000000?style=flat&logo=numpy&logoColor=white) -->
-- ⚙️ &nbsp; 
+- ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
 - 🐧 &nbsp;
