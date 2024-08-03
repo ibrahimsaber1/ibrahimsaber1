@@ -31,7 +31,7 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=white)&nbsp;
   ![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&logoColor=white)&nbsp;
-  ![Numpy](https://img.shields.io/badge/Numpy-000000?style=flat&logo=numpy&logoColor=white)
+  <!-- ![Numpy](https://img.shields.io/badge/Numpy-000000?style=flat&logo=numpy&logoColor=white) -->
 - ⚙️ &nbsp; 
   ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
