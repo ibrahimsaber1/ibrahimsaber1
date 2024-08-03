@@ -76,6 +76,6 @@
 I'm open to working on new projects and learning opportunities. Let me know if you have an idea or project you'd like to discuss.
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsaber&layout=compact&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsaber1&layout=compact&hide=html,css)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ibrahimsaber1&color=brightgreen)](https://github.com/ibrahimsaber1)
