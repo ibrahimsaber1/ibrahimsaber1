@@ -12,7 +12,7 @@
 <br>
 <h1>🛠 &nbsp;Tech Stack</h1>
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
-<img alt="Night Coding" src="https://media.giphy.com/media/26BRvOYIkF5mYe7pG/giphy.gif" align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/26BRvOYIkF5mYe7pG/giphy.gif" align="right"/ >
 
 
 - 💻 &nbsp;
