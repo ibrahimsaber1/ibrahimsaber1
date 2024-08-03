@@ -2,7 +2,7 @@
 
 <br>
 <h1>👨🏻‍💻 &nbsp;About Me:</h1> <br>
-👋 &nbsp; <h3>I'm a full-stack developer, based in Egypt.</h3>h3> <br>
+ <h3>👋 &nbsp; I'm a full-stack developer, based in Egypt.</h3> <br>
 🤖 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.<br>
 🌱 &nbsp; I'm on track for learning more about Full-stack and Artificial Intelligence .<br>
 💬 &nbsp; I'm always open to pro bono consulting, volunteering opportunities, or engaging discussions on tech and beyond.<br>
