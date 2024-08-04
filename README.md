@@ -12,11 +12,11 @@
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" width="400"/> <br>
 
-- <P>💻 &nbsp;</P>
+- 💻 &nbsp;
   ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)&nbsp;
   ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white)&nbsp;
- - <P>🌐 &nbsp;</P>
+ - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=white)&nbsp;
   ![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=white)&nbsp;
