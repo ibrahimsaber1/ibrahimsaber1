@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <br>
 <h1>👨🏻‍💻 &nbsp;About Me:</h1> <br>
- <p> 👋 &nbsp; I'm a full-stack developer, based in Egypt.</p>
- <p> 🤖 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.</p>
- <p> 🌱 &nbsp; I'm on track for learning more about Full-stack and Artificial Intelligence .</p>
- <p> 💬 &nbsp; I'm always open to pro bono consulting, volunteering opportunities, or engaging discussions on tech and beyond.</p>
- <p> ✉️ &nbsp; You can shoot me an email at <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a> I'll try to respond as soon as I can.</p>
+ 👋 &nbsp; I'm a full-stack developer, based in Egypt.
+ 🤖 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.
+ 🌱 &nbsp; I'm on track for learning more about Full-stack and Artificial Intelligence.
+ 💬 &nbsp; I'm always open to pro bono consulting, volunteering opportunities, or engaging discussions on tech and beyond.
+ ✉️ &nbsp; You can shoot me an email at <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a> I'll try to respond as soon as I can.
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.ibra.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 <br>
 <h1>🛠 &nbsp;Tech Stack</h1>
