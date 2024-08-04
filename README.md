@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <br>
 <h1>👨🏻‍💻 &nbsp;About Me:</h1> <br>
- 👋 &nbsp; I'm a full-stack developer, based in Egypt.
- 🤖 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.
- 🌱 &nbsp; I'm on track for learning more about Full-stack and Artificial Intelligence.
- 💬 &nbsp; I'm always open to pro bono consulting, volunteering opportunities, or engaging discussions on tech and beyond.
- ✉️ &nbsp; You can shoot me an email at <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a> I'll try to respond as soon as I can.
+ 👋 &nbsp; I'm a full-stack developer, based in Egypt. <br>
+ 🤖 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.<br>
+ 🌱 &nbsp; I'm on track for learning more about Full-stack and Artificial Intelligence.<br>
+ 💬 &nbsp; I'm always open to pro bono consulting, volunteering opportunities, or engaging discussions on tech and beyond.<br>
+ ✉️ &nbsp; You can shoot me an email at <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a> I'll try to respond as soon as I can.<br>
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.ibra.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 <br>
 <h1>🛠 &nbsp;Tech Stack</h1>
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" width="400"/> <be>
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" width="400"/> <br>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)&nbsp;
