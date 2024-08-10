@@ -35,6 +35,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)&nbsp;
+  ![GitKraken](https://img.shields.io/badge/GitKraken-000000?style=flat&logo=gitkraken&logoColor=white)&nbsp;
 - 🐧 &nbsp;
   ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)&nbsp;
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=white)&nbsp;
