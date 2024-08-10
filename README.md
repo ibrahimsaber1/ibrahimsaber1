@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <br>
 <h1>👨🏻‍💻 &nbsp;About Me:</h1> 
-<br>
+
 🌍 &nbsp; I'm a full-stack developer, based in Egypt. <br>
 🛠️ &nbsp; I love exploring new technologies and building innovative software solutions.<br>
 🚀 &nbsp; Currently, I'm deepening my knowledge in Full-stack development and Artificial Intelligence.<br>
