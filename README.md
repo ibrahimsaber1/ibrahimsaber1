@@ -4,8 +4,8 @@
 
 🌍 &nbsp; I'm a full-stack developer, based in Egypt. <br>
 🛠️ &nbsp; I love exploring new technologies and building innovative software solutions.<br>
-🚀 &nbsp; Currently, I'm deepening my knowledge in Full-stack development and Artificial Intelligence.<br>
-🎯 &nbsp; I'm always up for pro bono consulting, volunteering, or engaging tech discussions.<br>
+🚀 &nbsp; I'm deepening my full-stack development knowledge, working on React, Express.js, MongoDB, and Node.js projects.<br>
+🎯 &nbsp; I'm always up for pro bono consulting, volunteering, or engaging in tech discussions.<br>
 📬 &nbsp; Feel free to email me at <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a> — I'll get back to you as soon as I can.<br>
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.ibra.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 <br>
