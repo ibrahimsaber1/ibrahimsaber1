@@ -1,10 +1,10 @@
 <h2 align="center">Hi 👋, I'm Ibrahim</h2>
 <!-- <h2>👨🏻‍💻 &nbsp;About Me:</h2>  -->
-🌍 &nbsp; I'm a <strong>full-stack developer</strong>, based in Egypt. <br>
-🛠️ &nbsp; I love exploring new technologies and building innovative software solutions.<br>
-🚀 &nbsp; I'm deepening my full-stack development knowledge, working on React, Express.js, MongoDB, and Node.js projects.<br>
-🎯 &nbsp; I'm always up for pro bono consulting, volunteering, or engaging in tech discussions.<br>
-📬 &nbsp; Feel free to email me at <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a> — I'll get back to you as soon as I can.<br>
+<p>🌍 Hi there! I'm a <b> Full-Stack Developer </b>b from Egypt.</p>
+<p>🛠️ I love exploring new technologies and creating cool software.</p>
+<p>🚀 Right now, I'm working with React, Express.js, MongoDB, and Node.js.</p>
+<p>🎯 I'm open to free consulting, volunteering, and tech chats.</p>
+<p>📬 Feel free to email me at <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a> — I'll reply as soon as I can.</p>
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.ibra.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 <!-- <br> -->
 <h2>🛠 &nbsp;Tech Stack</h2>
