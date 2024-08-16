@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
-<br>
-<h1>👨🏻‍💻 &nbsp;About Me:</h1> 
-
+<h2>👨🏻‍💻 &nbsp;About Me:</h2> 
 🌍 &nbsp; I'm a full-stack developer, based in Egypt. <br>
 🛠️ &nbsp; I love exploring new technologies and building innovative software solutions.<br>
 🚀 &nbsp; I'm deepening my full-stack development knowledge, working on React, Express.js, MongoDB, and Node.js projects.<br>
