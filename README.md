@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ibrahim</h1>
+<h2 align="center">Hi 👋, I'm Ibrahim</h2>
 <h2>👨🏻‍💻 &nbsp;About Me:</h2> 
 🌍 &nbsp; I'm a full-stack developer, based in Egypt. <br>
 🛠️ &nbsp; I love exploring new technologies and building innovative software solutions.<br>
@@ -6,9 +6,8 @@
 🎯 &nbsp; I'm always up for pro bono consulting, volunteering, or engaging in tech discussions.<br>
 📬 &nbsp; Feel free to email me at <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a> — I'll get back to you as soon as I can.<br>
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.ibra.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
-<br>
-
-<h1>🛠 &nbsp;Tech Stack</h1>
+<!-- <br> -->
+<h2>🛠 &nbsp;Tech Stack</h2>
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" width="400"/>
 
 - 💻 &nbsp;
