@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Ibrahim</h2>
 <!-- <h2>👨🏻‍💻 &nbsp;About Me:</h2>  -->
-<p>🌍 Hi there! I'm a <b> Full-Stack Developer </b>b from Egypt.</p>
+<p>🌍 Hi there! I'm a <b> Full-Stack Developer </b> from Egypt.</p>
 <p>🛠️ I love exploring new technologies and creating cool software.</p>
 <p>🚀 Right now, I'm working with React, Express.js, MongoDB, and Node.js.</p>
 <p>🎯 I'm open to free consulting, volunteering, and tech chats.</p>
