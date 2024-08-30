@@ -1,4 +1,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ibrahimsaber1&color=brightgreen)](https://github.com/ibrahimsaber1)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 <h2 align="center">Hi 👋, I'm Ibrahim</h2>
 <!-- <h2>👨🏻‍💻 &nbsp;About Me:</h2>  -->
 🌍 &nbsp; Hi there! I'm a <b> Full-Stack Developer </b> from Egypt.<br>
@@ -92,4 +93,5 @@ I'm open to working on new projects and learning opportunities. Let me know if y
   </tr>
 </table>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ibrahimsaber1&color=brightgreen)](https://github.com/ibrahimsaber1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ibrahimsaber1&theme=onedark)](https://github.com/ibrahimsaber1/github-profile-trophy)
+
