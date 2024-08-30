@@ -70,7 +70,7 @@ I'm open to working on new projects and learning opportunities. Let me know if y
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center"> 📊 GitHub Stats </h2>
 
 <table>
   <tr>
