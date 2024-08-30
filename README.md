@@ -75,19 +75,23 @@ I'm open to working on new projects and learning opportunities. Let me know if y
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
   <div style="flex: 1; min-width: 45%; max-width: 48%; margin: 1%;">
-    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimsaber1&theme=dark)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimsaber1&theme=dark)
   </div>
 
   <div style="flex: 1; min-width: 45%; max-width: 48%; margin: 1%;">
-    ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ibrahimsaber1&layout=compact&theme=dark)
+    
+  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ibrahimsaber1&layout=compact&theme=dark)
   </div>
 
   <div style="flex: 1; min-width: 45%; max-width: 48%; margin: 1%;">
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsaber1&layout=compact&hide=html,CSS&theme=dark)
+    
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsaber1&layout=compact&hide=html,CSS&theme=dark)
   </div>
 
   <div style="flex: 1; min-width: 45%; max-width: 48%; margin: 1%;">
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimsaber1&show_icons=true&hide_title=true&theme=dark)
+    
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimsaber1&show_icons=true&hide_title=true&theme=dark)
   </div>
 
 </div>
