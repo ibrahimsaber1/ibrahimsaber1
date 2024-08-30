@@ -72,8 +72,9 @@ I'm open to working on new projects and learning opportunities. Let me know if y
 
 ## 📊 GitHub Stats
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimsaber1&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsaber1&layout=compact&hide=jupyter_notebook&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsaber1&layout=compact&hide=html,CSS,jupyter_notebook&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimsaber1&show_icons=true&hide_title=true&theme=dark)
 
