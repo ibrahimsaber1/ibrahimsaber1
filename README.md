@@ -21,10 +21,12 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=white)&nbsp;
   ![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=white)&nbsp;
   ![CSS](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=white)&nbsp;
+  ![Odoo](https://img.shields.io/badge/Odoo-000000?style=flat&logo=odoo&logoColor=white)&nbsp;
 - 👨‍💻 &nbsp;
   ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white)&nbsp;
   ![Django](https://img.shields.io/badge/Django-000000?style=flat&logo=django&logoColor=white)&nbsp;
   ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
+  ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=white)&nbsp;
   ![Apache](https://img.shields.io/badge/Apache-000000?style=flat&logo=apache&logoColor=white)&nbsp;
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)&nbsp;
@@ -43,7 +45,7 @@
   ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-000000?style=flat&logo=jupyter&logoColor=white)&nbsp;
-
+  ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 <br>
 
 <h2>🤝🏻 &nbsp;Connect with Me:</h2> 
