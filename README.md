@@ -79,8 +79,8 @@ I'm open to working on new projects and learning opportunities. Let me know if y
 <table>
   <tr>
     <td>
-<!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimsaber1&theme=dark" alt="GitHub Streak" /> -->
-    [![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimsaber1&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimsaber1&theme=dark" alt="GitHub Streak" />
+<!--     [![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimsaber1&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ibrahimsaber1&layout=compact&theme=dark" alt="WakaTime Stats" />
