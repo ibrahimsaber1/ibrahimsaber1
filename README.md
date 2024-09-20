@@ -1,5 +1,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ibrahimsaber1&color=brightgreen)](https://github.com/ibrahimsaber1)
-![WakaTime](https://wakatime.com/badge/user/ac775871-52bf-41da-a381-b76c44051691.svg)
+<a href="https://wakatime.com/@6f167b12-89c3-42b1-bc17-55bfeceb8662"><img src="https://wakatime.com/badge/user/6f167b12-89c3-42b1-bc17-55bfeceb8662.svg" alt="Total time coded since Aug 30 2024" /></a>
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 <h2 align="center">Hi 👋, I'm Ibrahim</h2>
 <!-- <h2>👨🏻‍💻 &nbsp;About Me:</h2>  -->
