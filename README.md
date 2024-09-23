@@ -73,7 +73,7 @@
 
 I'm open to working on new projects and learning opportunities. Let me know if you have an idea or project you'd like to discuss.
 
----
+--- 
 
 <h2 align="center"> 📊 GitHub Stats </h2>
 
