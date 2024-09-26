@@ -96,10 +96,6 @@ I'm open to working on new projects and learning opportunities. Let me know if y
     </td>
   </tr>
 </table>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ibrahim1saber" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/ibrahim1saber?trk=profile-badge">Ibrahim Saber</a></div>
-              
-
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ibrahimsaber1&theme=onedark)](https://github.com/ibrahimsaber1/github-profile-trophy)
 
