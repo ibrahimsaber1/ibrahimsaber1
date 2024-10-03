@@ -49,7 +49,7 @@
   ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 <br>
 
-<h2>🤝🏻 &nbsp;Connect with Me:</h2> 
+<h2>🤝🏻 &nbsp;Connect with Me:</h2>
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim1saber/" target="blank">
