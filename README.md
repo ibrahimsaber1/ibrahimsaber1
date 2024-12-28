@@ -5,7 +5,7 @@
 <!-- <h2>👨🏻‍💻 &nbsp;About Me:</h2>  -->
 🌍 &nbsp; Hi there! I'm a <b> Full-Stack Developer </b> from Egypt.<br>
 🛠️ &nbsp; I love exploring new technologies and creating cool software.<br>
-🚀 &nbsp; Right now, I'm working with React, Django, MongoDB, and Flask.<br>
+🚀 &nbsp; Right now, I'm working with PySide, React, Django, MongoDB, and Flask.<br>
 🎯 &nbsp; I'm open to free consulting, volunteering, and tech chats.<br>
 📬 &nbsp; Feel free to email me at <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a> — I'll reply as soon as I can.<br>
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.ibra.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
