@@ -100,8 +100,7 @@ I'm open to working on new projects and learning opportunities. Let me know if y
 ---
 <h2 align="center"> 📊 Leetcode Stats </h2>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ibrahimsaber622?theme=dark&font=Libre%20Barcode%2039%20Extended%20Text)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/ibrahimsaber622?theme=chartreuse&font=Kite%20One&ext=heatmap)
 
 
 ---
