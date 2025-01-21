@@ -100,7 +100,7 @@ I'm open to working on new projects and learning opportunities. Let me know if y
 ---
 <h2 align="center"> 📊 Leetcode Stats </h2>
 
-[![ibrahimsaber622's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ibrahimsaber622)](https://github.com/ibrahimsaber622/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ibrahimsaber622?theme=dark&font=Libre%20Barcode%2039%20Extended%20Text)
 
 
 
