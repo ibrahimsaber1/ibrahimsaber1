@@ -99,7 +99,8 @@ I'm open to working on new projects and learning opportunities. Let me know if y
 
 ---
 <h2 align="center"> 📊 Leetcode Stats </h2>
-[![YOUR_NAME’s LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ibrahimsaber622)](https://leetcode.com/ibrahimsaber622/)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=ibrahimsaber622)
+
 
 ---
 
