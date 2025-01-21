@@ -99,9 +99,10 @@ I'm open to working on new projects and learning opportunities. Let me know if y
 
 ---
 <h2 align="center"> 📊 Leetcode Stats </h2>
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=ibrahimsaber622/&theme=dark)
+[![YOUR_NAME’s LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ibrahimsaber622)](https://leetcode.com/ibrahimsaber622/)
 
-    
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ibrahimsaber1&theme=onedark)](https://github.com/ibrahimsaber1/github-profile-trophy)
 
    
