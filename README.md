@@ -55,6 +55,9 @@
   <a href="https://www.linkedin.com/in/ibrahim1saber/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
+   <a href="https://wakatime.com/@ibrahimsaber1" target="blank">
+    <img src="https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white" alt="WakaTime" height="30" />
+  </a>
 <!--   <a href="https://www.instagram.com/ibrahimsabe.r/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="30" />
   </a>
