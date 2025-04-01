@@ -1,8 +1,17 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=ibrahimsaber1&color=brightgreen)](https://github.com/ibrahimsaber1)
-<a href="https://wakatime.com/@6f167b12-89c3-42b1-bc17-55bfeceb8662"><img src="https://wakatime.com/badge/user/6f167b12-89c3-42b1-bc17-55bfeceb8662.svg" alt="Total time coded since Aug 30 2024" /></a>
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-<h2 align="center">Hi 👋, I'm Ibrahim</h2>
-<!-- <h2>👨🏻‍💻 &nbsp;About Me:</h2>  -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ibrahimsaber1&color=brightgreen" alt="Profile Views"/>
+  <a href="https://wakatime.com/@6f167b12-89c3-42b1-bc17-55bfeceb8662">
+    <img src="https://wakatime.com/badge/user/6f167b12-89c3-42b1-bc17-55bfeceb8662.svg" alt="WakaTime" />
+  </a>
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"/>
+</p>
+
+<h1 align="center">Hey there! I'm Ibrahim 👋</h1>
+<h3 align="center">🧠 Junior Software Engineer | 🎬 VFX Pipeline Enthusiast | 🛠 Tech Explorer</h3>
+
+---
+<h2>👨🏻‍💻 &nbsp;About Me:</h2>
 🌍 &nbsp; Hi there! I'm a <b> Full-Stack Developer </b> from Egypt.<br>
 🛠️ &nbsp; I love exploring new technologies and creating cool software.<br>
 🚀 &nbsp; Right now, I'm working with PySide, React, Django, MongoDB, and Flask.<br>
@@ -49,20 +58,23 @@
   ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 <br>
 
-<h2>🤝🏻 &nbsp;Connect with Me:</h2>
-<br>
+### 🌍 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ibrahim1saber/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
+  <a href="mailto:ibrahimsaber622@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/profile/ibrahimsaber622" target="blank">
-    <img src="https://img.shields.io/badge/Hackerrank-000000?style=flat&logo=hackerrank&logoColor=white" alt="Hackerrank" height="30" />
+  <a href="https://www.linkedin.com/in/ibrahim1saber/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-     <a href="https://wakatime.com/@ibrahimsaber1" target="blank">
-    <img src="https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white" alt="WakaTime" height="30" />
+  <a href="https://leetcode.com/u/ibrahimsaber622/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://leetcode.com/u/ibrahimsaber622/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" height="30" />
+  <a href="https://wakatime.com/@ibrahimsaber1">
+    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ibrahimsaber622">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <!--   <a href="https://www.instagram.com/ibrahimsabe.r/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="30" />
@@ -72,10 +84,6 @@
   </a> -->
 </p>
   
-## Let's Collaborate!
-
-I'm open to working on new projects and learning opportunities. Let me know if you have an idea or project you'd like to discuss.
-
 --- 
 
 <h2 align="center"> 📊 GitHub Stats </h2>
@@ -101,6 +109,12 @@ I'm open to working on new projects and learning opportunities. Let me know if y
 </table>  
 
 ---
+### 🤝 Let’s Build Something Cool!
+
+I’m always open to collaborating on open-source projects, small creative tools, or just learning from others.  
+Feel free to reach out, suggest a project, or say hello. Let’s make great things together! 🚀
+
+---
 <h2 align="center"> 📊 Leetcode Stats </h2>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ibrahimsaber622?theme=chartreuse&font=Kite%20One&ext=heatmap)
@@ -109,5 +123,7 @@ I'm open to working on new projects and learning opportunities. Let me know if y
 --- 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ibrahimsaber1&theme=onedark)](https://github.com/ibrahimsaber1/github-profile-trophy)
+---
 
-    
+![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
