@@ -12,10 +12,18 @@
 
 ---
 <h2>👨🏻‍💻 &nbsp;About Me:</h2>
-🌍 &nbsp; Hi there! I'm a <b> Full-Stack Developer </b> from Egypt.<br>
+Hey! I’m Ibrahim – a curious developer and toolmaker working behind the scenes to support artists.  
+I’m part of the **pipeline team**, bridging the gap between **art and code**, building smart tools and automations to make creativity flow smoother!
+
+🔧 I work with a range of tech – from DCC tools like **Maya**, **Houdini**, and **Nuke**, to frameworks like **FastAPI**, **React**, and **Django**.  
+I also dive deep into the world of **PySide**, **Kitsu**, **OpenPype**, **MongoDB**, and a lot more.
+
+✨ Whether it's building a desktop tool for asset management or crafting a web API to help track production,  
+I love solving real-world problems with clean, efficient code.
+<!-- 🌍 &nbsp; Hi there! I'm a <b> Full-Stack Developer </b> from Egypt.<br>
 🛠️ &nbsp; I love exploring new technologies and creating cool software.<br>
 🚀 &nbsp; Right now, I'm working with PySide, React, Django, MongoDB, and Flask.<br>
-🎯 &nbsp; I'm open to free consulting, volunteering, and tech chats.<br>
+🎯 &nbsp; I'm open to free consulting, volunteering, and tech chats.<br> -->
 📬 &nbsp; Feel free to email me at <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a> — I'll reply as soon as I can.<br>
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.ibra.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 <!-- <br> --> 
