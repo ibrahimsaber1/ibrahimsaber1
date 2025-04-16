@@ -8,12 +8,12 @@
 </p>
 
 <h1 align="center">Hey there! I'm Ibrahim 👋</h1>
-<h3 align="center">🧠 Junior Software Engineer | 🎬 VFX Pipeline Enthusiast | 🛠 Tech Explorer</h3>
+<h3 align="center">🧠 Software Engineer | 🎬 VFX Pipeline Enthusiast | 🛠 Tech Explorer</h3>
 
 ---
 <h2>👨🏻‍💻 &nbsp;About Me:</h2>
 Hey! I’m Ibrahim – a curious developer and toolmaker working behind the scenes to support artists.  
-I’m part of the **pipeline team**, bridging the gap between **art and code**, building smart tools and automations to make creativity flow smoother!
+I’m part of the pipeline team, bridging the gap between art and code, building smart tools and automations to make creativity flow smoother!
 
 🔧 I work with a range of tech – from DCC tools like **Maya**, **Houdini**, and **Nuke**, to frameworks like **FastAPI**, **React**, and **Django**.  
 I also dive deep into the world of **PySide**, **Kitsu**, **OpenPype**, **MongoDB**, and a lot more.
