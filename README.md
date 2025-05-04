@@ -108,7 +108,7 @@ I love solving real-world problems with clean, efficient code.
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsaber1&layout=compact&hide=html,CSS&theme=dark" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsaber1&layout=compact&hide=html,css,jupyter%20notebook&theme=dark" alt="Top Languages" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ibrahimsaber1&show_icons=true&hide_title=true&theme=dark" alt="GitHub Stats" />
