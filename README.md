@@ -100,7 +100,9 @@ I love solving real-world problems with clean, efficient code.
   <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimsaber1&theme=dark" alt="GitHub Streak" />
-<!--     [![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimsaber1&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) --> 
+<!--     [![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimsaber1&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
+      <h2 align="center"> 📊 Leetcode Stats </h2>
+      ![LeetCode Stats](https://leetcard.jacoblin.cool/ibrahimsaber622?theme=chartreuse&font=Kite%20One&ext=heatmap) --> 
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ibrahimsaber1&layout=compact&theme=dark" alt="WakaTime Stats" />
@@ -122,10 +124,6 @@ I love solving real-world problems with clean, efficient code.
 I’m always open to collaborating on open-source projects, small creative tools, or just learning from others.  
 Feel free to reach out, suggest a project, or say hello. Let’s make great things together! 🚀
 
----
-<h2 align="center"> 📊 Leetcode Stats </h2>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ibrahimsaber622?theme=chartreuse&font=Kite%20One&ext=heatmap)
 
 
 --- 
