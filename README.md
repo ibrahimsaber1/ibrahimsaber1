@@ -26,44 +26,53 @@ I love solving real-world problems with clean, efficient code.
 🎯 &nbsp; I'm open to free consulting, volunteering, and tech chats.<br> -->
 📬 &nbsp; Feel free to email me at <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a> — I'll reply as soon as I can.<br>
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.ibra.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
-<!-- <br> --> 
-<h2>🛠 &nbsp;Tech Stack</h2>
+<!-- <br> --> <h2>🛠 &nbsp;Tech Stack</h2>
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" width="380"/>
  
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)&nbsp;
   ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white)&nbsp;
+  ![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql&logoColor=white)&nbsp;
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+  ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
   ![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=white)&nbsp;
   ![CSS](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=white)&nbsp;
-  ![Odoo](https://img.shields.io/badge/Odoo-000000?style=flat&logo=odoo&logoColor=white)&nbsp;
+  ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat&logo=vue.js&logoColor=white)&nbsp;
 - 👨‍💻 &nbsp;
-  ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white)&nbsp;
+   ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=white)&nbsp;
   ![Django](https://img.shields.io/badge/Django-000000?style=flat&logo=django&logoColor=white)&nbsp;
   ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
-  ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=white)&nbsp;
-  ![Apache](https://img.shields.io/badge/Apache-000000?style=flat&logo=apache&logoColor=white)&nbsp;
+  ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white)&nbsp;
+  ![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)&nbsp;
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=white)&nbsp;
+  ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)&nbsp;
+  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=flat&logo=python&logoColor=white)&nbsp;
+- 🤖 &nbsp;
+  ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white)&nbsp;
   ![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&logoColor=white)&nbsp;
+  ![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy&logoColor=white)&nbsp;
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-000000?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
+  ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat&logo=streamlit&logoColor=white)&nbsp;
+  ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)&nbsp;
+- 📊 &nbsp;
+  ![Chart.js](https://img.shields.io/badge/Chart.js-000000?style=flat&logo=chart.js&logoColor=white)&nbsp;
+  ![Plotly](https://img.shields.io/badge/Plotly-000000?style=flat&logo=plotly&logoColor=white)&nbsp;
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)&nbsp;
-  ![GitKraken](https://img.shields.io/badge/GitKraken-000000?style=flat&logo=gitkraken&logoColor=white)&nbsp;
-- 🐧 &nbsp;
-  ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)&nbsp;
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=white)&nbsp;
-  ![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
-- 🔧 &nbsp;
   ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-000000?style=flat&logo=jupyter&logoColor=white)&nbsp;
-  ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+  ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)&nbsp;
+  ![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+- 🔧 &nbsp; 
+  ![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white)&nbsp;
+  ![Pydantic](https://img.shields.io/badge/Pydantic-000000?style=flat&logo=python&logoColor=white)&nbsp;
+  ![PySide6](https://img.shields.io/badge/PySide6-000000?style=flat&logo=qt&logoColor=white)&nbsp;
+  ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat&logo=socketdotio&logoColor=white)&nbsp;
 <br>
 
 ### 🌍 Connect With Me
@@ -119,12 +128,16 @@ I love solving real-world problems with clean, efficient code.
 </table>  
 
 ---
-### 🤝 Let’s Build Something Cool!
+### 🤝 Let's Build Something Amazing!
 
-I’m always open to collaborating on open-source projects, small creative tools, or just learning from others.  
-Feel free to reach out, suggest a project, or say hello. Let’s make great things together! 🚀
+I'm always open to collaborating on:
+- 🌐 Full-stack web applications with modern tech stacks
+- 🤖 AI/ML integration projects and automation systems
+- 📊 Data analysis and visualization tools
+- 🛠️ Open-source projects that solve real problems
+- 💡 Innovative ideas that push boundaries
 
-
+Feel free to reach out for collaboration, code reviews, or just to chat about tech over coffee (virtual or otherwise) ☕! Let's create something impactful together 🚀
 
 --- 
 
