@@ -1,30 +1,31 @@
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ibrahimsaber1&color=brightgreen" alt="Profile Views"/>
   <a href="https://wakatime.com/@6f167b12-89c3-42b1-bc17-55bfeceb8662">
     <img src="https://wakatime.com/badge/user/6f167b12-89c3-42b1-bc17-55bfeceb8662.svg" alt="WakaTime" />
   </a>
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"/>
-</p>    
+</p>  
 
-<h1 align="center">Hey there! I'm Ibrahim 👋</h1>
-<h3 align="center">🧠 Software Engineer | Data Science Enthusiast </h3>
+**<h1 align="center">Hey! I'm Ibrahim 👋</h1>**
+<h3 align="center">🚀 Full-Stack Developer | Python Backend Specialist | AI & ML Integrator | Data Science Enthusiast</h3>
 
 ---
+
 <h2>👨🏻‍💻 &nbsp;About Me:</h2>
-Hey! I’m Ibrahim – a curious developer and toolmaker working behind the scenes to support artists.  
-I’m part of the pipeline team, bridging the gap between art and code, building smart tools and automations to make creativity flow smoother!
 
-🔧 I work with a range of tech – from DCC tools like **Maya**, **Houdini**, and **Nuke**, to frameworks like **FastAPI**, **React**, and **Django**.  
-I also dive deep into the world of **PySide**, **Kitsu**, **OpenPype**, **MongoDB**, and a lot more.
+I'm Ibrahim, a passionate full-stack developer with a strong emphasis on Python backend technologies—Django, FastAPI, and Flask are my toolkit for building scalable, secure, and production-ready APIs. Working at the intersection between art and code, I design and automate systems that empower creative professionals and streamline media production workflows.
 
-✨ Whether it's building a desktop tool for asset management or crafting a web API to help track production,  
-I love solving real-world problems with clean, efficient code.
-<!-- 🌍 &nbsp; Hi there! I'm a <b> Full-Stack Developer </b> from Egypt.<br>
-🛠️ &nbsp; I love exploring new technologies and creating cool software.<br>
-🚀 &nbsp; Right now, I'm working with PySide, React, Django, MongoDB, and Flask.<br>
-🎯 &nbsp; I'm open to free consulting, volunteering, and tech chats.<br> -->
-📬 &nbsp; Feel free to email me at <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a> — I'll reply as soon as I can.<br>
+I love crafting solutions that connect modern frontends like React and Vue.js with robust backend architectures. My experience extends to integrating AI and machine learning models into real-world applications, whether it's prediction systems, automation platforms, or smart data analysis tools.
+
+- 🎬 Pipeline team member supporting artists and creative studios
+- 🧠 Data science and ML enthusiast: deploying, optimizing, and integrating models in production environments
+- 🛠️ Tech stack includes PySide, OpenPype, MongoDB, Kitsu, and more
+- 🌍 Always excited by open-source, automation, and solving real-world problems with clean, efficient code
+
+Feel free to get in touch for collaboration or consultation—let's build something impactful!
+
+📬 Email: <a href="mailto:ibrahimsaber622@gmail.com">ibrahimsaber622@gmail.com</a>
+
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.ibra.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 <!-- <br> --> <h2>🛠 &nbsp;Tech Stack</h2>
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" width="380"/>
