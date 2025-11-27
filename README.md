@@ -9,7 +9,7 @@
 **<h1 align="center">Hey! I'm Ibrahim 👋</h1>**
 <h3 align="center">🚀 Full-Stack Developer | Python Backend Specialist | AI & ML Integrator | Data Science Enthusiast</h3>
 
----
+----
 
 <h2>👨🏻‍💻 &nbsp;About Me:</h2>
 
