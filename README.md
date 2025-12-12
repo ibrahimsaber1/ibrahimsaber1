@@ -4,7 +4,7 @@
     <img src="https://wakatime.com/badge/user/6f167b12-89c3-42b1-bc17-55bfeceb8662.svg" alt="WakaTime" />
   </a>
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"/>
-</p>  
+</p>    
 
 **<h1 align="center">Hey! I'm Ibrahim 👋</h1>**
 <h3 align="center">🚀 Full-Stack Developer | Python Backend Specialist | AI & ML Integrator | Data Science Enthusiast</h3>
